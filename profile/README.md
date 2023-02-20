@@ -1,7 +1,7 @@
 > Welcome to NIftyers Outsourcing and Offshore Consulting
 
 ## HOW TO CONTRIBUTE?
-`Starred` and `Fork` the reposiory, `Clone` the forked reposiory to your local machine i.e (PC or Desktop).
+`Starred` and `Fork` the repository, `Clone` the forked reposiory to your local machine i.e (PC or Desktop).
 Create a `new branch` for your new changes. Please follow the `standard branch naming`.
 After coding completion. `Push` your changes to the fork repository.
 Create a `Pull Request (PR)` and `add details to comment section` of your PR so that our team can review and test your changes.
